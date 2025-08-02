@@ -3,3 +3,6 @@
 @theme inline {
   --grid-template-column-70-30: '70% 28%';
 }
+.nextjs-portal {
+  display: none !important;
+}
