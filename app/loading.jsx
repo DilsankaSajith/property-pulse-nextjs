@@ -14,9 +14,7 @@ const LoadingPage = () => {
       cssOverride={override}
       size={150}
       aria-label="Loading Spinner"
-    >
-      Loading...
-    </ClipLoader>
+    />
   );
 };
 
